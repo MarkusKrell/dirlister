@@ -11,6 +11,8 @@ This BurpSuite extension makes it very easy to export known directories from the
 
 3. Right click on a site map entry and select "Dirlist Exporter" and then "Export Site Map".
 
+![Export directory names](screenshot/dirlist-export.png)
+
 How To Compile
 ==============
 

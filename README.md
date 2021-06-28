@@ -17,7 +17,4 @@ How To Compile
 ==============
 
 1. Clone the repo
-2. cd burp
-3. javac -d ./build *.java
-4. cd build
-5. jar cvf dirlister.jar *
+2. gradle fatJar
